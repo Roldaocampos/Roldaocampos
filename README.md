@@ -25,7 +25,9 @@
     </nav>
 </body>
 
-
+<aside>
+  Barra Lateral
+</aside>
   
 
 
